@@ -1,6 +1,6 @@
 # This app is my solution to the Zeller Coding Challenge. See preview below.
 
-![image](https://github.com/emilymclean2/zeller-challenge/assets/24485242/3d10a716-7ed0-49f1-aafc-64f574ab44b8)
+![image](https://github.com/emilymclean2/zeller-challenge/assets/24485242/7b05ba99-c033-44cf-850e-28a41933f1b9)
 
 # Getting Started with Create React App
 
