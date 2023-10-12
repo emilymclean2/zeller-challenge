@@ -7,3 +7,17 @@ interface User {
 	name: string;
 	role: Role;
 }
+
+interface DatabaseUser {
+	id: string;
+	name: string;
+	role: DatabaseRole;
+}
+
+interface ZellerCustomersConnection {
+	items: DatabaseUser[];
+}
+
+interface DatabaseResponse {
+	listZellerCustomers: ZellerCustomersConnection;
+}
