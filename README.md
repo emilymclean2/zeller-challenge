@@ -1,3 +1,7 @@
+# This app is my solution to the Zeller Coding Challenge. See preview below.
+
+![image](https://github.com/emilymclean2/zeller-challenge/assets/24485242/3d10a716-7ed0-49f1-aafc-64f574ab44b8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
